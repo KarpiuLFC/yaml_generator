@@ -1,0 +1,13 @@
+Type;Action;View;Record_name;Value;Alias Target/MX preferance;New_Record;New Value
+CNAME;create;common;selector1._domainkey.clutchprep.com;selector1-clutchprep-com._domainkey.pearsoneducationinc.onmicrosoft.com;;;
+CNAME;create;common;selector1._domainkey.mondly.com;selector1-mondly-com._domainkey.pearsoneducationinc.onmicrosoft.com;;;
+CNAME;create;common;selector1._domainkey.mzdevinc.com;selector1-mzdevinc-com._domainkey.pearsoneducationinc.onmicrosoft.com;;;
+CNAME;create;common;selector1._domainkey.schoolnet.com;selector1-schoolnet-com._domainkey.pearsoneducationinc.onmicrosoft.com;;;
+CNAME;create;common;selector1._domainkey.ocrm10.pearson.com;selector1-ocrm10-pearson-com._domainkey.pearsoneducationinc.onmicrosoft.com;;;
+CNAME;create;common;selector1._domainkey.oracle.pearson.com;selector1-oracle-pearson-com._domainkey.pearsoneducationinc.onmicrosoft.com;;;
+CNAME;create;common;selector2._domainkey.clutchprep.com;selector2-clutchprep-com._domainkey.pearsoneducationinc.onmicrosoft.com;;;
+CNAME;create;common;selector2._domainkey.mondly.com;selector2-mondly-com._domainkey.pearsoneducationinc.onmicrosoft.com;;;
+CNAME;create;common;selector2._domainkey.mzdevinc.com;selector2-mzdevinc-com._domainkey.pearsoneducationinc.onmicrosoft.com;;;
+CNAME;create;common;selector2._domainkey.schoolnet.com;selector2-schoolnet-com._domainkey.pearsoneducationinc.onmicrosoft.com;;;
+CNAME;create;common;selector2._domainkey.ocrm10.pearson.com;selector2-ocrm10-pearson-com._domainkey.pearsoneducationinc.onmicrosoft.com;;;
+CNAME;create;common;selector2._domainkey.oracle.pearson.com;selector2-oracle-pearson-com._domainkey.pearsoneducationinc.onmicrosoft.com;;;

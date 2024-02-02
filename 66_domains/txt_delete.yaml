@@ -1,0 +1,60 @@
+records:
+- action: delete
+  record_name: _dmarc.pearson.com
+  record_type: txt
+  text: v=DMARC1;p=none;rua=mailto:dmarc_rua@pearson.com;ruf=mailto:dmarc_ruf@pearson.com;fo=1;
+  view: common
+- action: delete
+  record_name: _dmarc.pearson.de
+  record_type: txt
+  text: v=DMARC1; p=none; fo=1; rua=mailto:dmarc-aggregate@pearson.de,mailto:dmarc_rua@emaildefense.proofpoint.com;
+    ruf=mailto:dmarc_ruf@emaildefense.proofpoint.com
+  view: common
+- action: delete
+  record_name: _dmarc.pearsonclinical.asia
+  record_type: txt
+  text: v=DMARC1; p=none; fo=1; rua=mailto:dmarc_rua@pearsonclinical.asia;ruf=mailto:dmarc_ruf@pearsonclinical.asia
+  view: common
+- action: delete
+  record_name: _dmarc.pearsoned.com
+  record_type: txt
+  text: v=DMARC1; p=quarantine; fo=1; rua=mailto:dmarc_rua@pearsoncmg.com,mailto:dmarc_rua@pearson.com,mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:dmarc_ruf@peaerson.com,mailto:bb264152e6@ruf.easydmarc.us;  rf=afrf;
+    pct=1
+  view: common
+- action: delete
+  record_name: _dmarc.eu.pearson.com
+  record_type: txt
+  text: v=DMARC1; p=reject; pct=100;
+  view: common
+- action: delete
+  record_name: _dmarc.feedback.pearson.com
+  record_type: txt
+  text: v=DMARC1; p=quarantine; rua=mailto:dmarc_rua@feedback.pearson.com,mailto:dmarc_rua@pearson.com;
+    ruf=mailto:dmarc_ruf@feedback.pearson.com,mailto:dmarc_ruf@pearson.com; fo=1;
+  view: common
+- action: delete
+  record_name: _dmarc.marketing.pearson.com
+  record_type: txt
+  text: v=DMARC1; p=none; fo=1; rua=mailto:dmarc_rua@marketing.pearson.com;ruf=mailto:dmarc_ruf@marketing.pearson.com
+  view: common
+- action: delete
+  record_name: _dmarc.marketing.pearson.com
+  record_type: txt
+  text: v=DMARC1; p=reject; pct=100;
+  view: common
+- action: delete
+  record_name: _dmarc.learn.pearson.com
+  record_type: txt
+  text: v=DMARC1; p=none; rua=mailto:dmarc_rua@learn.pearson.com,mailto:dmarc_rua@pearson.com;  ruf=mailto:dmarc_ruf@learn.pearson.com;
+    fo=1;
+  view: common
+- action: delete
+  record_name: _dmarc.notifications.pearson.com
+  record_type: txt
+  text: v=DMARC1; p=none; fo=1; rua=mailto:dmarc_rua@notifications.pearson.com;ruf=mailto:dmarc_ruf@notifications.pearson.com
+  view: common
+- action: delete
+  record_name: _dmarc.ocrm10.pearson.com
+  record_type: txt
+  text: v=DMARC1; p=reject; pct=100;
+  view: common

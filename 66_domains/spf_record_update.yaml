@@ -1,0 +1,441 @@
+records:
+- action: update
+  new_record_name: ciscopress.com
+  new_text: v=spf1 include:_spf.ciscopress_com._d.easydmarc.pro ~all
+  record_name: ciscopress.com
+  record_type: txt
+  text: v=spf1 include:spf.protection.outlook.com include:spf.pearson.com -all
+  view: common
+- action: update
+  new_record_name: collegeplus.org
+  new_text: v=spf1 include:_spf.collegeplus_org._d.easydmarc.pro ~all
+  record_name: collegeplus.org
+  record_type: txt
+  text: v=spf1 include:spf.pearson.com -all
+  view: common
+- action: update
+  new_record_name: cti.co.za
+  new_text: v=spf1 include:_spf.cti_co_za._d.easydmarc.pro ~all
+  record_name: cti.co.za
+  record_type: txt
+  text: v=spf1 mx include:cmail1.com include:spf.protection.outlook.com include:spf.pearson.com
+    ~all
+  view: common
+- action: update
+  new_record_name: ecpa.fr
+  new_text: v=spf1 include:_spf.ecpa_fr._d.easydmarc.pro ~all
+  record_name: ecpa.fr
+  record_type: txt
+  text: v=spf1 include:spf.protection.outlook.com include:spf.pearson.com -all
+  view: common
+- action: update
+  new_record_name: edexcel.com
+  new_text: v=spf1 include:_spf.edexcel_com._d.easydmarc.pro ~all
+  record_name: edexcel.com
+  record_type: txt
+  text: v=spf1 include:spf.pearson.com ip4:207.126.144.0/20 ip4:64.18.0.0/20 ip4:193.30.108.0/24
+    ip4:62.244.185.128/27 ip4:109.68.65.47 ip4:195.69.215.57 -all
+  view: common
+- action: update
+  new_record_name: edexcel.org.uk
+  new_text: v=spf1 include:_spf.edexcel_org.uk._d.easydmarc.pro ~all
+  record_name: edexcel.org.uk
+  record_type: txt
+  text: v=spf1 include:spf.pearson.com ip4:207.126.144.0/20 ip4:64.18.0.0/20 ip4:193.30.108.0/24
+    ip4:62.244.185.128/27 ip4:195.69.215.57 -all
+  view: common
+- action: update
+  new_record_name: ediplc.com
+  new_text: v=spf1 include:_spf.ediplc_com._d.easydmarc.pro ~all
+  record_name: ediplc.com
+  record_type: txt
+  text: v=spf1 include:spf.protection.outlook.com include:spf.pearson.com ip4:204.14.232.0/23
+    ip4:204.14.237.0/24 -all
+  view: common
+- action: update
+  new_record_name: Lumerit.com
+  new_text: v=spf1 include:_spf.Lumerit_com._d.easydmarc.pro ~all
+  record_name: Lumerit.com
+  record_type: txt
+  text: v=spf1 include:spf.mail.intercom.io include:amazonses.com include:spf.pearson.com
+    -all
+  view: common
+- action: update
+  new_record_name: mathology.ca
+  new_text: v=spf1 include:_spf.mathology_ca._d.easydmarc.pro ~all
+  record_name: mathology.ca
+  record_type: txt
+  text: v=spf1 a include:sendgrid.net -all
+  view: common
+- action: update
+  new_record_name: microsoftpressstore.com
+  new_text: v=spf1 include:_spf.microsoftpressstore_com._d.easydmarc.pro ~all
+  record_name: microsoftpressstore.com
+  record_type: txt
+  text: v=spf1 include:spf.protection.outlook.com include:spf.pearson.com ?all
+  view: common
+- action: update
+  new_record_name: pearson.ch
+  new_text: v=spf1 include:_spf.pearson_ch._d.easydmarc.pro ~all
+  record_name: pearson.ch
+  record_type: txt
+  text: v=spf1 ip4:204.14.232.0/23 ip4:204.14.237.0/24 include:spf.protection.outlook.com
+    include:spf.pearson.com -all
+  view: common
+- action: update
+  new_record_name: pearson.com
+  new_text: v=spf1 include:_spf.pearson_com._d.easydmarc.pro ~all
+  record_name: pearson.com
+  record_type: txt
+  text: v=spf1 ip4:204.14.232.0/23 ip4:204.14.237.0/24 ip4:46.249.218.29 ip4:185.71.186.106
+    ip4:54.240.69.173 ip4:54.240.69.174 ip4:54.240.69.175 include:spf.protection.outlook.com  include:spf.pearson.com
+    include:_spf.vaimo.net include:mail.zendesk.com -all
+  view: common
+- action: update
+  new_record_name: pearson.de
+  new_text: v=spf1 include:_spf.pearson_de._d.easydmarc.pro ~all
+  record_name: pearson.de
+  record_type: txt
+  text: v=spf1 ip4:204.14.232.0/23 ip4:204.14.237.0/24 include:spf.protection.outlook.com
+    include:spf.pearson.com -all
+  view: common
+- action: update
+  new_record_name: pearson.vc
+  new_text: v=spf1 include:_spf.pearson_vc._d.easydmarc.pro ~all
+  record_name: pearson.vc
+  record_type: txt
+  text: v=spf1 include:spf.protection.outlook.com include:spf.pearson.com -all
+  view: common
+- action: update
+  new_record_name: pearsonacademy.com.au
+  new_text: v=spf1 include:_spf.pearsonacademy_com.au._d.easydmarc.pro ~all
+  record_name: pearsonacademy.com.au
+  record_type: txt
+  text: v=spf1 include:spf.protection.outlook.com include:spf.pearson.com -all
+  view: common
+- action: update
+  new_record_name: pearsonactivelearn.com
+  new_text: v=spf1 include:_spf.pearsonactivelearn_com._d.easydmarc.pro ~all
+  record_name: pearsonactivelearn.com
+  record_type: txt
+  text: v=spf1 ip4:195.69.215.57 include:spf.protection.outlook.com include:spf.pearson.com
+    -all
+  view: common
+- action: update
+  new_record_name: pearsoncanada.com
+  new_text: v=spf1 include:_spf.pearsoncanada_com._d.easydmarc.pro ~all
+  record_name: pearsoncanada.com
+  record_type: txt
+  text: v=spf1 include:spf.protection.outlook.com include:spf.pearson.com -all
+  view: common
+- action: update
+  new_record_name: pearsonclinical.asia
+  new_text: v=spf1 include:_spf.pearsonclinical_asia._d.easydmarc.pro ~all
+  record_name: pearsonclinical.asia
+  record_type: txt
+  text: v=spf1 include:spf.pearson.com include:spf.protection.outlook.com -all
+  view: common
+- action: update
+  new_record_name: pearsonclinical.co.uk
+  new_text: v=spf1 include:_spf.pearsonclinical_co_uk._d.easydmarc.pro ~all
+  record_name: pearsonclinical.co.uk
+  record_type: txt
+  text: v=spf1 include:spf.protection.outlook.com include:spf.pearson.com -all
+  view: common
+- action: update
+  new_record_name: pearsonclinical.in
+  new_text: v=spf1 include:_spf.pearsonclinical_in._d.easydmarc.pro ~all
+  record_name: pearsonclinical.in
+  record_type: txt
+  text: v=spf1 include:spf.protection.outlook.com include:spf.pearson.com -all
+  view: common
+- action: update
+  new_record_name: pearsoncustom.com
+  new_text: v=spf1 include:_spf.pearsoncustom_com._d.easydmarc.pro ~all
+  record_name: pearsoncustom.com
+  record_type: txt
+  text: v=spf1 include:spf.protection.outlook.com include:spf.pearson.com ?all
+  view: common
+- action: update
+  new_record_name: pearsoned.com
+  new_text: v=spf1 include:_spf.pearsoned_com._d.easydmarc.pro ~all
+  record_name: pearsoned.com
+  record_type: txt
+  text: v=spf1 include:spf.protection.outlook.com include:spf.pearson.com include:mail.zendesk.com
+    ip4:54.240.31.40 ip4:54.240.31.41 ip4:54.240.31.42 -all
+  view: common
+- action: update
+  new_record_name: pearsoned.com.au
+  new_text: v=spf1 include:_spf.pearsoned_com.au._d.easydmarc.pro ~all
+  record_name: pearsoned.com.au
+  record_type: txt
+  text: v=spf1 include:spf.protection.outlook.com include:spf.pearson.com -all
+  view: common
+- action: update
+  new_record_name: pearsoned-ema.com
+  new_text: v=spf1 include:_spf.pearsoned-ema_com._d.easydmarc.pro ~all
+  record_name: pearsoned-ema.com
+  record_type: txt
+  text: v=spf1 ip4:195.69.215.57 ~all
+  view: common
+- action: update
+  new_record_name: pearsonelt.ca
+  new_text: v=spf1 include:_spf.pearsonelt_ca._d.easydmarc.pro ~all
+  record_name: pearsonelt.ca
+  record_type: txt
+  text: v=spf1 include:spf.protection.outlook.com include:spf.pearson.com ip4:207.126.144.0/20
+    ip4:64.18.0.0/20 include:cmail1.com ~all
+  view: common
+- action: update
+  new_record_name: pearsonerpi.com
+  new_text: v=spf1 include:_spf.pearsonerpi_com._d.easydmarc.pro ~all
+  record_name: pearsonerpi.com
+  record_type: txt
+  text: v=spf1 include:spf.protection.outlook.com include:spf.pearson.com include:cmail1.com
+    ip4:207.126.144.0/20 ip4:64.18.0.0/20 -all
+  view: common
+- action: update
+  new_record_name: pearson-inc.com
+  new_text: v=spf1 include:_spf.pearson-inc_com._d.easydmarc.pro ~all
+  record_name: pearson-inc.com
+  record_type: txt
+  text: v=spf1 include:spf.protection.outlook.com include:spf.pearson.com ?all
+  view: common
+- action: update
+  new_record_name: pearsontc.com
+  new_text: v=spf1 include:_spf.pearsontc_com._d.easydmarc.pro ~all
+  record_name: pearsontc.com
+  record_type: txt
+  text: v=spf1 ip4:204.14.232.0/23 ip4:204.14.237.0/24 include:spf2.pearson.com -all
+  view: common
+- action: update
+  new_record_name: smarthinking.com
+  new_text: v=spf1 include:_spf.smarthinking_com._d.easydmarc.pro ~all
+  record_name: smarthinking.com
+  record_type: txt
+  text: v=spf1 ip4:209.119.24.16/28 ip4:64.14.121.192/27 ip4:173.8.9.176/28 ip4:75.126.229.77/32
+    ip4:50.97.98.67/32 ip4:67.228.173.51/32 include:spf.protection.outlook.com include:spf.pearson.com
+    -all
+  view: common
+- action: update
+  new_record_name: talentlens.co.uk
+  new_text: v=spf1 include:_spf.talentlens_co_uk._d.easydmarc.pro ~all
+  record_name: talentlens.co.uk
+  record_type: txt
+  text: v=spf1 include:spf.protection.outlook.com include:spf.pearson.com include:spf.getfeedback.net
+    -all
+  view: common
+- action: update
+  new_record_name: prod.pearson.com
+  new_text: v=spf1 include:_spf.prod.pearson_com._d.easydmarc.pro ~all
+  record_name: prod.pearson.com
+  record_type: txt
+  text: v=spf1 include:_spf.atoracle.com ip4:204.14.232.0/23 ip4:204.14.237.0/24 include:spf.protection.outlook.com
+    include:spf.pearson.com -all
+  view: common
+- action: update
+  new_record_name: canada.pearson.com
+  new_text: v=spf1 include:_spf.canada.pearson_com._d.easydmarc.pro ~all
+  record_name: canada.pearson.com
+  record_type: txt
+  text: v=spf1 ip4:198.245.81.0/24 ip4:136.147.176.0/24 ip4:13.111.0.0/16 ip4:136.147.182.0/24  ip4:136.147.135.0/24
+    ip4:199.122.123.0/24 include:cust-spf.exacttarget.com include:spf.pearson.com  include:spf.protection.outlook.com
+    include:sendgrid.net -all
+  view: common
+- action: update
+  new_record_name: alerts.pearson.com
+  new_text: v=spf1 include:_spf.alerts.pearson_com._d.easydmarc.pro ~all
+  record_name: alerts.pearson.com
+  record_type: txt
+  text: v=spf1 ip4:204.14.232.0/23 ip4:204.14.237.0/24 include:spf.protection.outlook.com
+    include:spf.pearson.com -all
+  view: common
+- action: update
+  new_record_name: eu.pearson.com
+  new_text: v=spf1 include:_spf.eu.pearson_com._d.easydmarc.pro ~all
+  record_name: eu.pearson.com
+  record_type: txt
+  text: v=spf1 include:cust-spf.exacttarget.com include:spf.protection.outlook.com
+    include:spf.pearson.com -all
+  view: common
+- action: update
+  new_record_name: support.pearson.com
+  new_text: v=spf1 include:_spf.support.pearson_com._d.easydmarc.pro ~all
+  record_name: support.pearson.com
+  record_type: txt
+  text: v=spf1 include:_spf.atoracle.com ip4:204.14.232.0/23 ip4:204.14.237.0/24 include:spf.pearson.com
+    -all
+  view: common
+- action: update
+  new_record_name: feedback.pearson.com
+  new_text: v=spf1 include:_spf.feedback.pearson_com._d.easydmarc.pro ~all
+  record_name: feedback.pearson.com
+  record_type: txt
+  text: v=spf1 ip4:64.151.119.33 ip4:64.151.112.130 ip4:142.0.180.184 ip4:142.0.186.76  ip4:208.73.7.175
+    ip4:185.92.121.141 ip4:52.60.87.177 include:cust-spf.exacttarget.com  include:spf.pearson.com
+    include:spf.protection.outlook.com  -all
+  view: common
+- action: update
+  new_record_name: services.pearson.com
+  new_text: v=spf1 include:_spf.services.pearson_com._d.easydmarc.pro ~all
+  record_name: services.pearson.com
+  record_type: txt
+  text: v=spf1 include:cust-spf.exacttarget.com include:spf.protection.outlook.com
+    include:spf.pearson.com include:sendgrid.net -all
+  view: common
+- action: update
+  new_record_name: grp.pearson.com
+  new_text: v=spf1 include:_spf.grp.pearson_com._d.easydmarc.pro ~all
+  record_name: grp.pearson.com
+  record_type: txt
+  text: v=spf1 include:spf.protection.outlook.com include:spf.pearson.com ip4:204.14.232.0/23
+    ip4:204.14.237.0/24 -all
+  view: common
+- action: update
+  new_record_name: marketing.pearson.com
+  new_text: v=spf1 include:_spf.marketing.pearson_com._d.easydmarc.pro ~all
+  record_name: marketing.pearson.com
+  record_type: txt
+  text: v=spf1 include:cust-spf.exacttarget.com include:spf.pearson.com include:spf.protection.outlook.com
+    -all
+  view: common
+- action: update
+  new_record_name: anz.pearson.com
+  new_text: v=spf1 include:_spf.anz.pearson_com._d.easydmarc.pro ~all
+  record_name: anz.pearson.com
+  record_type: txt
+  text: v=spf1 include:spf.pearson.com include:spf.protection.outlook.com include:sendgrid.net  include:et._spf.pardot.com
+    -all
+  view: common
+- action: update
+  new_record_name: sales.pearson.com
+  new_text: v=spf1 include:_spf.sales.pearson_com._d.easydmarc.pro ~all
+  record_name: sales.pearson.com
+  record_type: txt
+  text: v=spf1 include:spf.protection.outlook.com include:spf.pearson.com ip4:162.242.197.196
+    ip4:208.117.51.229 -all
+  view: common
+- action: update
+  new_record_name: uk.mail.pearson.com
+  new_text: v=spf1 include:_spf.uk.mail.pearson_com._d.easydmarc.pro ~all
+  record_name: uk.mail.pearson.com
+  record_type: txt
+  text: v=spf1 ip4:13.111.54.73 include:et._spf.pardot.com include:cust-spf.exacttarget.com
+    include:spf.protection.outlook.com include:spf.pearson.com -all
+  view: common
+- action: update
+  new_record_name: accelerated.pearson.com
+  new_text: v=spf1 include:_spf.accelerated.pearson_com._d.easydmarc.pro ~all
+  record_name: accelerated.pearson.com
+  record_type: txt
+  text: v=spf1 include:cust-spf.exacttarget.com -all
+  view: common
+- action: update
+  new_record_name: brasil.pearson.com
+  new_text: v=spf1 include:_spf.brasil.pearson_com._d.easydmarc.pro ~all
+  record_name: brasil.pearson.com
+  record_type: txt
+  text: v=spf1 ip4:204.14.232.0/23 ip4:204.14.237.0/24 include:spf.protection.outlook.com
+    include:spf.pearson.com -all
+  view: common
+- action: update
+  new_record_name: gr.pearson.com
+  new_text: v=spf1 include:_spf.gr.pearson_com._d.easydmarc.pro ~all
+  record_name: gr.pearson.com
+  record_type: txt
+  text: v=spf1 include:spf-2248456.jmsend.com -all
+  view: common
+- action: update
+  new_record_name: innerview.pearson.com
+  new_text: v=spf1 include:_spf.innerview.pearson_com._d.easydmarc.pro ~all
+  record_name: innerview.pearson.com
+  record_type: txt
+  text: v=spf1 ip4:204.14.232.0/23 ip4:204.14.237.0/24 include:spf.protection.outlook.com
+    include:spf.pearson.com -all
+  view: common
+- action: update
+  new_record_name: learn.pearson.com
+  new_text: v=spf1 include:_spf.learn.pearson_com._d.easydmarc.pro ~all
+  record_name: learn.pearson.com
+  record_type: txt
+  text: v=spf1 include:cust-spf.exacttarget.com include:spf.pearson.com include:spf.protection.outlook.com  include:sendgrid.net
+    -all
+  view: common
+- action: update
+  new_record_name: notifications.pearson.com
+  new_text: v=spf1 include:_spf.notifications.pearson_com._d.easydmarc.pro ~all
+  record_name: notifications.pearson.com
+  record_type: txt
+  text: v=spf1   ip4:54.240.31.40/31 ip4:54.240.31.42/32 include:spf.protection.outlook.com  include:spf.pearson.com
+    include:amazonses.com a:zgateway.zuora.com -all
+  view: common
+- action: update
+  new_record_name: ocrm10.pearson.com
+  new_text: v=spf1 include:_spf.ocrm10.pearson_com._d.easydmarc.pro ~all
+  record_name: ocrm10.pearson.com
+  record_type: txt
+  text: v=spf1 include:cust-spf.exacttarget.com include:spf.pearson.com include:spf.protection.outlook.com
+    -all
+  view: common
+- action: update
+  new_record_name: ocrm4.pearson.com
+  new_text: v=spf1 include:_spf.ocrm4.pearson_com._d.easydmarc.pro ~all
+  record_name: ocrm4.pearson.com
+  record_type: txt
+  text: v=spf1 include:spf.pearson.com include:spf.protection.outlook.com include:sendgrid.net  include:et._spf.pardot.com
+    -all
+  view: common
+- action: update
+  new_record_name: opm.pearson.com
+  new_text: v=spf1 include:_spf.opm.pearson_com._d.easydmarc.pro ~all
+  record_name: opm.pearson.com
+  record_type: txt
+  text: v=spf1 ip4:204.14.232.0/23 ip4:204.14.237.0/24 include:aspmx.pardot.com include:authsmtp.com
+    -all
+  view: common
+- action: update
+  new_record_name: oracle.pearson.com
+  new_text: v=spf1 include:_spf.oracle.pearson_com._d.easydmarc.pro ~all
+  record_name: oracle.pearson.com
+  record_type: txt
+  text: v=spf1 ip4:204.14.232.0/23 ip4:204.14.237.0/24 include:spf.pearson.com include:spf.protection.outlook.com
+    -all
+  view: common
+- action: update
+  new_record_name: p2o.pearson.com
+  new_text: v=spf1 include:_spf.p2o.pearson_com._d.easydmarc.pro ~all
+  record_name: p2o.pearson.com
+  record_type: txt
+  text: v=spf1 include:spf.protection.outlook.com include:spf.pearson.com ~all
+  view: common
+- action: update
+  new_record_name: rooms.pearson.com
+  new_text: v=spf1 include:_spf.rooms.pearson_com._d.easydmarc.pro ~all
+  record_name: rooms.pearson.com
+  record_type: txt
+  text: v=spf1 ip4:204.14.232.0/23 ip4:204.14.237.0/24 include:spf.protection.outlook.com
+    include:spf.pearson.com -all
+  view: common
+- action: update
+  new_record_name: sg.pearson.com
+  new_text: v=spf1 include:_spf.sg.pearson_com._d.easydmarc.pro ~all
+  record_name: sg.pearson.com
+  record_type: txt
+  text: v=spf1 ip4:204.14.232.0/23 ip4:204.14.237.0/24 include:spf.protection.outlook.com
+    include:spf.pearson.com -all
+  view: common
+- action: update
+  new_record_name: thinkfuture.pearson.com
+  new_text: v=spf1 include:_spf.thinkfuture.pearson_com._d.easydmarc.pro ~all
+  record_name: thinkfuture.pearson.com
+  record_type: txt
+  text: v=spf1 ip4:195.69.215.57 ~all
+  view: common
+- action: update
+  new_record_name: pearson.it
+  new_text: v=spf1 include:_spf.pearson_it._d.easydmarc.pro ~all
+  record_name: pearson.it
+  record_type: txt
+  text: v=spf1 include:spf.protection.outlook.com include:spf.pearson.com include:t.contactlab.it
+    ~all
+  view: common
