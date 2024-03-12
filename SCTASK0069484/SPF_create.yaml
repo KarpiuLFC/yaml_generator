@@ -1,0 +1,681 @@
+records:
+- action: create
+  record_name: alerts.pearsontc.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: awl.co.uk
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: bksu.co.uk
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: bradybooks.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: catalis.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: cdmcareerzone.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: communicationsdegreesguide.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: computersciencedegreeguides.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: criminaljusticedegreeguides.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: criminaljusticedegreeguides.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: developers-library.info
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: directdgree.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: dnpprogramguides.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: earlylearner.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: earlylearner.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: edexcel.co.uk
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: educationdegreesguide.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: educationdegreesguide.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: edustructures.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: escapestudios.tv
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: executivembaguide.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: executivembaprogramguides.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: familynursepractitionerprogram.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: familynursepractitionerprogramguides.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: familynursepractitionerprogramguides.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: getarealdegree.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: getarealdegree.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: getarealdegreeonline.info
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: getarealdegreeonline.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: globalenglish.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: harcourtassessment.co.uk
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: harcourt-au.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: harcourtsecondary.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: healthcareadministrationdegreeguides.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: healthcarembaguides.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: heinemann.co.za
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: hq.globalenglish.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: informationsystemsdegreeguides.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: informationtechnologydegreeguides.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: journalismdegreeguides.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: k12planet.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: lcci.org.uk
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: londonenterprisefestival.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: longman.co.zm
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: longman.co.zw
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: longman.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: longman.hu
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: lovetolearn.co.uk
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: lsatindia.in
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: marketingdegreeguides.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: maryvilleedd.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: maryvillenursing.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: masterinhealthadministration.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: masteroflibraryscienceguides.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: mastersinaccountingguides.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: mastersincommunicationsguides.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: mastersincriminaljusticeguides.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: mastersineducationdegreesguide.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: mastersineducationdegreesguide.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: mastersinpublichealthguides.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: mastersinpublichealthguides.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: mastersinsocialworkguides.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: mbadegreeonlineguides.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: military2university.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: moschampionship.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: msimdegree.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: nestest.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: neumastersinfinance.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: northeasterndegrees.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: nursepractitionerschoolguides.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: oneyearmbaguides.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: onlinecriminaljusticemasters.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: onlinembadegreeguides.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: onlinembanogmatguides.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: onlinembaprogramguides.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: onlineprogramsohio.info
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: onlineregismha.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: onlineregisnursing.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: ounceonline.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: parentskidsandtesting.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsn.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsonbroadband.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsonca.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsonclinical.fr
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsoncls.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsondigital.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsonearlylearning.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsonedu.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsoneducation.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsonelt.at
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsonmylabandmastering.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsonplc.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsonptr.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearson-studium.de
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsontc.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: peroot.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: peterhoney.co.uk
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: peterhoney.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: projectmanagementdegreeguides.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: projectmanagementdegreeguides.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: Promissor.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pteacademic.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: publicadmindegrees.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: publicrelationsdegreeguides.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: realcity.dk.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: regisonlinemph.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: rntomsnguides.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: rntomsnguides.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: safari.informit.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: schoolsuccess.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: schoolsuccess.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: smarthinking.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: smarthinking.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: snab.co.uk
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: socialworkdegreeguides.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: storystreet.co.uk
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: talentlens.in
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: teacher-courses.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: teacher-degrees.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: teachersadvance.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: tfa.co.uk
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: theinx.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: thinkwatson.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: topmbaschoolsguides.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: topmbaschoolsguides.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: usconlineprogrms.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: wauwatosavirtualacademy.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: worksamplingonline.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: wsuonlinemba.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: yourbookshop.co.uk
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: zenos.info
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: zenos.mobi
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: br.pearson.com
+  record_type: txt
+  text: v=spf1 redirect=_spf.pearson_com._d.easydmarc.pro
+  view: common
+- action: create
+  record_name: fbinterop.pearson.com
+  record_type: txt
+  text: v=spf1 redirect=_spf.pearson_com._d.easydmarc.pro
+  view: common
+- action: create
+  record_name: gmigration.pearson.com
+  record_type: txt
+  text: v=spf1 redirect=_spf.pearson_com._d.easydmarc.pro
+  view: common
+- action: create
+  record_name: edidata.edexcel.org.uk
+  record_type: txt
+  text: v=spf1 redirect=_spf.edidata_edexcel_org_uk._d.easydmarc.pro
+  view: common

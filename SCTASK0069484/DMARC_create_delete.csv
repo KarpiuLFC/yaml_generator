@@ -1,0 +1,13 @@
+﻿Type;Action;View;Record_name;Value;Alias Target/MX preferance;New_Record_UPDATE;New Value_UPDATE
+TXT;Create;common;_dmarc.escapestudios.tv;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;;
+TXT;Create;common;_dmarc.hq.globalenglish.com;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;;
+TXT;Create;common;_dmarc.peroot.com;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;;
+TXT;Create;common;_dmarc.Promissor.com;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;;
+TXT;Create;common;_dmarc.realcity.dk.com;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;;
+TXT;Create;common;_dmarc.pearsonclinical.com.au;"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;;
+TXT;Create;common;_dmarc.pearsoned.co.uk;"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;;
+TXT;Create;common;_dmarc.pearsoned.co.za;"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;;
+TXT;Create;common;_dmarc.pearsonpsychcorp.es;"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;;
+TXT;Delete;common;_dmarc.br.pearson.com;"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;;
+TXT;Delete;common;_dmarc.fbinterop.pearson.com;"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;;
+TXT;Delete;common;_dmarc.gmigration.pearson.com;"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;;

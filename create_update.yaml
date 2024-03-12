@@ -1,0 +1,97 @@
+records:
+- action: create
+  record_name: pearsonplaces.com.au
+  record_type: txt
+  text: v=spf1 redirect=_spf.pearson_com._d.easydmarc.pro
+  view: common
+- action: create
+  record_name: zenos.com
+  record_type: txt
+  text: v=spf1 redirect=_spf.pearson_com._d.easydmarc.pro
+  view: common
+- action: create
+  record_name: pearsoned.com.sg
+  record_type: txt
+  text: v=spf1 redirect=_spf.pearson_com._d.easydmarc.pro
+  view: common
+- action: create
+  record_name: adobepress.com
+  record_type: txt
+  text: v=spf1 redirect=_spf.pearson_com._d.easydmarc.pro
+  view: common
+- action: create
+  record_name: pearsonelt.de
+  record_type: txt
+  text: v=spf1 redirect=_spf.pearson_com._d.easydmarc.pro
+  view: common
+- action: create
+  record_name: itests.com
+  record_type: txt
+  text: v=spf1 redirect=_spf.pearson_com._d.easydmarc.pro
+  view: common
+- action: create
+  record_name: longman.co.uk
+  record_type: txt
+  text: v=spf1 redirect=_spf.pearson_com._d.easydmarc.pro
+  view: common
+- action: create
+  record_name: pearsoned.de
+  record_type: txt
+  text: v=spf1 redirect=_spf.pearson_com._d.easydmarc.pro
+  view: common
+- action: update
+  new_record_name: _dmarc.adobepress.com
+  new_text: v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1
+  record_name: _dmarc.adobepress.com
+  record_type: txt
+  text: v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1
+  view: common
+- action: update
+  new_record_name: _dmarc.itests.com
+  new_text: v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1
+  record_name: _dmarc.itests.com
+  record_type: txt
+  text: v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1
+  view: common
+- action: update
+  new_record_name: _dmarc.longman.co.uk
+  new_text: v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1
+  record_name: _dmarc.longman.co.uk
+  record_type: txt
+  text: v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1
+  view: common
+- action: update
+  new_record_name: _dmarc.pearsoned.com.sg
+  new_text: v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1
+  record_name: _dmarc.pearsoned.com.sg
+  record_type: txt
+  text: v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1
+  view: common
+- action: update
+  new_record_name: _dmarc.pearsoned.de
+  new_text: v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1
+  record_name: _dmarc.pearsoned.de
+  record_type: txt
+  text: v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1
+  view: common
+- action: update
+  new_record_name: _dmarc.pearsonelt.de
+  new_text: v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1
+  record_name: _dmarc.pearsonelt.de
+  record_type: txt
+  text: v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1
+  view: common
+- action: update
+  new_record_name: _dmarc.pearsonplaces.com.au
+  new_text: v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1
+  record_name: _dmarc.pearsonplaces.com.au
+  record_type: txt
+  text: v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1
+  view: common
+- action: update
+  new_record_name: _dmarc.zenos.com
+  new_text: v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1
+  record_name: _dmarc.zenos.com
+  record_type: txt
+  text: v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1
+  view: common

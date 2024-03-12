@@ -1,0 +1,15 @@
+pearsonassessments-stg2.pearson.com
+pearsonclinical-asia-ppe.pearson.com
+pearsonclinical-asia-stg.pearson.com
+pearsonclinical-asia-stg2.pearson.com
+pearsonclinical-au-ppe.pearson.com
+pearsonclinical-au-stg.pearson.com
+pearsonclinical-au-stg2.pearson.com
+pearsonclinical-ca-ppe.pearson.com
+pearsonclinical-ca-stg.pearson.com
+pearsonclinical-ca-stg2.pearson.com
+pearsonclinical-uk-ppe.pearson.com
+pearsonclinical-uk-stg.pearson.com
+pearsonclinical-uk-stg2.pearson.com
+www-pearsonassessments-com-ppe.pearson.com
+www-pearsonassessments-com-stg.pearson.com

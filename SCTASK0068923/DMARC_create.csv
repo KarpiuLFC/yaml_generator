@@ -1,0 +1,8 @@
+﻿Type;Action;View;Record_name;Value;Alias Target/MX preferance;New_Record;New Value
+TXT;Create;common;_dmarc.ecollegeqa.net;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;;
+TXT;Create;common;_dmarc.ecollege.net;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;;
+TXT;Create;common;_dmarc.faethm.dev;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;;
+TXT;Create;common;_dmarc.pearosn.com;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;;
+TXT;Create;common;_dmarc.digiclass.in;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;;
+TXT;Create;common;_dmarc.faethm.foundation;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;;
+TXT;Create;common;_dmarc.faethm.community;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;;
