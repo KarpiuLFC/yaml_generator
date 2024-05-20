@@ -1,0 +1,6 @@
+record_type;action;record_name;value;view;new_value;alias_target;mx_preferance
+arecord;create;aaa;111;common;;666;
+arecord;delete;bbb;222;common;;666;
+arecord;update;ccc;333;common;fff;666;
+arecord;create;ddd;;common;;;
+arecord;update;eee;555;common;;;

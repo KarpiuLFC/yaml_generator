@@ -1,0 +1,10 @@
+﻿record_type;action;record_name;value;view
+Cname;Create;_dmarc.escapestudios.tv;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";common
+Cname;Create;_dmarc.hq.globalenglish.com;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";common
+Cname;Create;_dmarc.peroot.com;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";common
+Cname;Create;_dmarc.Promissor.com;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";common
+Cname;Create;_dmarc.realcity.dk.com;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";common
+Cname;Create;_dmarc.pearsonclinical.com.au;"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";common
+Cname;Create;_dmarc.pearsoned.co.uk;"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";common
+Cname;Create;_dmarc.pearsoned.co.za;"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";common
+Cname;Create;_dmarc.pearsonpsychcorp.es;"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";common

@@ -3,3 +3,4 @@ _dmarc.ecollege.net.	819	IN	TXT	"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:
 _dmarc.faethm.dev.	820	IN	TXT	"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1"
 _dmarc.digiclass.in.	820	IN	TXT	"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1"
 _dmarc.faethm.foundation. 820	IN	TXT	"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1"
+_dmarc.faethm.community. 607    IN  TXT "v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1"

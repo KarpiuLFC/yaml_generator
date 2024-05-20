@@ -3,13 +3,15 @@ import os
 import sys
 import csv
 
+
 source = os.path.expanduser(sys.argv[1]) #define source of file - need to be specify as atribute of python - python multi.py /Users/USZCZRA/Desktop/INC0264729.csv
 #source = 'dmarc_cname_create.csv'
 output = {'records': []} #define empty dictionary that would be updated with data yaml structure
 index=0 #start counting of generated records based on a number of rows
 
 with open(source, newline='') as file:
-    separator = csv.reader(file, delimiter=';', quotechar='"') # read row as a list
+    csv.reader = csv.DictReader(file, delimiter=';', quotechar='"')
+    separator = csv.reader# read row as a list
     headers = next(separator) # avoid headers
     for line in separator: #read file line by line      
         (type, action, view, record, value, alias, new_record, new_value) = line #define number and names of column from file to script, only number of columns must be equal 
