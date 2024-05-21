@@ -1,0 +1,971 @@
+records:
+- action: create
+  record_name: grammarexchange.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: roadsonlineschool.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: alamogordovirtualschool.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsonimmersive.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: californiaschooloptions.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: projectliteracy.info
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: alwayslearning.biz
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: projectliteracy.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: reachcybercharterschoolpa.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: advancedacademics.mobi
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: newworldonlineschool.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: learnwithwolf.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: connectionsacademystore.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: newworldonlinecharter.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsonstg.tech
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: ecollegeqa.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: lakesareavirtualacademy.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: wiscindia.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: wauwatosavirtualacademy.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: mytechcommkit.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: oklahomavirtualhighschool.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: acadmix.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: goldenvalleyvirtual.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: northcarolinaconnectionsacademy.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: reachcyberpa.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: gdlcouncil.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: breakzone.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsoneducationservices.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: socalvsn.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: kidsenglish.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsondigiclass.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: alwayslearning.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: advancedacademics.info
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: highschooleducationsolutions.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: minnesotavhs.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: wauwatosavirtualacademy.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: anusuiyaschool.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: reachcybercharter.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: mi-css.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: newworldonlinecharter.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: ecollege.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: connectionslearning.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: oklahomavhs.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: alamogordovirtualhighschool.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: semvaonline.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: carsononlineschool.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: connexusems.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsonconnexus.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: mypearson.in
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: deltapacificonline.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: freecalsummerschool.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: reachcybercharterschoolpa.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: everychildlearning.biz
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: oklahomavhs.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearson.careers
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: azargrammarexchange.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: jbdaonlineschool.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: nexusindiana.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: flcluborangecorner.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: mylogiclab.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: faethm.dev
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsonmypedia.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: flcluborangecorner.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: nevadaonlineschoolnetwork.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: fillmorevirtualacademy.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: saccityonlineacademy.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: fillmoredigitalacademy.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsonqualificationgateway.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: alwayslearningonline.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: sginternationalschool.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: reachcybercharter.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: flcluborangecorner.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: onlinehighschooloptions.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: learnatpearson.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: fillmorevirtualacademy.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: raventest.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: fairbanksbest.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: onlinehighschoolanswers.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsonconnexus.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: visionacademywyoming.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: psychcorpindia.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: accessvirtualhighschool.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: connectionscareeracademy.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: always-learning.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: steminnovator.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsoncollegelondon.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: soccacharterschool.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsonlearningacademy.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: sginternationalpublicschool.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: newworldcharterschool.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearosn.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: virtualhighschoolbenefits.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: alamogordovirtualhighschool.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: nivonet.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: roadsvirtualschool.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: ravensindia.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: highschoolanswers.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: alwayslearning.info
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: gyansagarinternational.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: connexusems.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: teamgreencorner.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: roadsvirualschool.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: lccieb.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: deltapacificonline.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: alwayslearning.us
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: reachcyberschool.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearscn.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: everychildlearning.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: alamogordovirtualacademy.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: talentlensindia.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: reachcyberschool.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: edexcell.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: educationfocus.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: alwayslearning.mobi
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: waisindia.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: connexusems.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: ravensindia.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: outsideschoolwalls.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: alamogordovirtualschool.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: jbdaonlineschool.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: reachcyberschoolpa.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pecosconnectionsacademy.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: high-school-education-solutions.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: commonwealthconnectionsacademy.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: socalonlineschool.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: semvaonline.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearson.global
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: myfreesummerschool.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: mi-css.info
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: mybusinesslawlab.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: freecalsummerschool.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pecosconnectionsacademy.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: digiclass.in
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: indiacan.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: goldenvalleyvirtual.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearson.college
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: nexusvirtualcareertechschool.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: mylogickit.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsonstudentinsiders.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: proctorcam.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: projectliteracy.biz
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: washingtonvirtualhighschool.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: aps4kidsvirtual.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: visionacademywyoming.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: socalonlineschoolnetwork.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: everychildlearning.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsoninternal.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: minnesotavhs.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: reachcyberpa.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearson-qualification-gateway.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: alamogordovirtualschool.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: roadseducation.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: minnesotavhs.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: coastalconnectionsacademy.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: everychildlearning.info
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: faethm.foundation
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: alamogordovirtualhighschool.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: reachcyberpa.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: mylabsouthasia.info
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: newworldcharteronline.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: roadsonlineschool.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: mathcaptain.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearson.university
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: soccacharterschool.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsonmathology.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsons.biz
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: virtualhighschooloptions.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: faethm.community
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: getunbound.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsonthankateacher.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: wwwpearsonvue.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: proctorcam.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: acadmix.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: roadscharterschool.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: alamogordovirtualhighschool.info
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: sconlineacademy.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: biobdx.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: talentlensindia.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: socalonlineschool.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: getmathonline.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearson.courses
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: mylabsouthasia.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: advancedacademics.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: mymathlab.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: roadscharterschool.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: newworldonlineschool.org
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: roadsonlinecharterschool.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: always-learning.biz
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: onlineacademicperformance.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearson.mba
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: pearsoncentroamerica.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: nevadaonlineschoolnetwork.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: livetutor.com
+  record_type: txt
+  text: v=spf1 -all
+  view: common
+- action: create
+  record_name: always-learning.net
+  record_type: txt
+  text: v=spf1 -all
+  view: common

@@ -1,0 +1,12 @@
+_dmarc.escapestudios.tv
+_dmarc.hq.globalenglish.com
+_dmarc.peroot.com
+_dmarc.Promissor.com
+_dmarc.realcity.dk.com
+_dmarc.pearsonclinical.com.au
+_dmarc.pearsoned.co.uk
+_dmarc.pearsoned.co.za
+_dmarc.pearsonpsychcorp.es
+_dmarc.br.pearson.com
+_dmarc.fbinterop.pearson.com
+_dmarc.gmigration.pearson.com

@@ -1,0 +1,16 @@
+Type;Action;View;Record_name;Value;Alias Target/MX preferance;New_Record;New Value
+CNAME;DELETE;COMMON;pearsonassessments-stg2.pearson.com;www-pearsonassessments-com-stg2-cdn.pmc.pearsondev.tech;;;
+CNAME;DELETE;COMMON;pearsonclinical-asia-ppe.pearson.com;pearsonclinical-asia-ppe-cdn.pmc.pearsondev.tech;;;
+CNAME;DELETE;COMMON;pearsonclinical-asia-stg.pearson.com;pearsonclinical-asia-stg-cdn.pmc.pearsondev.tech;;;
+CNAME;DELETE;COMMON;pearsonclinical-asia-stg2.pearson.com;pearsonclinical-asia-stg2-cdn.pmc.pearsondev.tech;;;
+CNAME;DELETE;COMMON;pearsonclinical-au-ppe.pearson.com;pearsonclinical-au-ppe-cdn.pmc.pearsondev.tech;;;
+CNAME;DELETE;COMMON;pearsonclinical-au-stg.pearson.com;pearsonclinical-au-stg-cdn.pmc.pearsondev.tech;;;
+CNAME;DELETE;COMMON;pearsonclinical-au-stg2.pearson.com;pearsonclinical-au-stg2-cdn.pmc.pearsondev.tech;;;
+CNAME;DELETE;COMMON;pearsonclinical-ca-ppe.pearson.com;pearsonclinical-ca-ppe-cdn.pmc.pearsondev.tech;;;
+CNAME;DELETE;COMMON;pearsonclinical-ca-stg.pearson.com;pearsonclinical-ca-stg-cdn.pmc.pearsondev.tech;;;
+CNAME;DELETE;COMMON;pearsonclinical-ca-stg2.pearson.com;pearsonclinical-ca-stg2-cdn.pmc.pearsondev.tech;;;
+CNAME;DELETE;COMMON;pearsonclinical-uk-ppe.pearson.com;pearsonclinical-uk-ppe-cdn.pmc.pearsondev.tech;;;
+CNAME;DELETE;COMMON;pearsonclinical-uk-stg.pearson.com;pearsonclinical-uk-stg-cdn.pmc.pearsondev.tech;;;
+CNAME;DELETE;COMMON;pearsonclinical-uk-stg2.pearson.com;pearsonclinical-uk-stg2-cdn.pmc.pearsondev.tech;;;
+CNAME;DELETE;COMMON;www-pearsonassessments-com-ppe.pearson.com;www-pearsonassessments-com-ppe-cdn.pmc.pearsondev.tech;;;
+CNAME;DELETE;COMMON;www-pearsonassessments-com-stg.pearson.com;www-pearsonassessments-com-stg-cdn.pmc.pearsondev.tech;;;

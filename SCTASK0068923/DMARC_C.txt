@@ -1,0 +1,7 @@
+_dmarc.ecollegeqa.net
+_dmarc.ecollege.net
+_dmarc.faethm.dev
+_dmarc.pearosn.com
+_dmarc.digiclass.in
+_dmarc.faethm.foundation
+_dmarc.faethm.community

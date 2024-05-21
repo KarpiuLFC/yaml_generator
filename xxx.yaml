@@ -1,0 +1,20 @@
+records:
+- action: delete
+  record_name: aaaa
+  record_type: alias
+  target_name: eeee
+  target_type: a
+  view: common
+- action: update
+  mail_exchanger: dddd
+  new_mail_exchanger: hhh
+  new_preference: null
+  preference: 20
+  record_name: bbb
+  record_type: mx
+  view: default
+- action: create
+  ip_address: gggg
+  record_name: ccc
+  record_type: arecord
+  view: external

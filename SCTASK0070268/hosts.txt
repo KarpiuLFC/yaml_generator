@@ -1,0 +1,16 @@
+pearsonplaces.com.au
+zenos.com
+pearsoned.com.sg
+adobepress.com
+pearsonelt.de
+itests.com
+longman.co.uk
+pearsoned.de
+_dmarc.adobepress.com
+_dmarc.itests.com
+_dmarc.longman.co.uk
+_dmarc.pearsoned.com.sg
+_dmarc.pearsoned.de
+_dmarc.pearsonelt.de
+_dmarc.pearsonplaces.com.au
+_dmarc.zenos.com

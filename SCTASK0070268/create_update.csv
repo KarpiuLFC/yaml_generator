@@ -1,0 +1,17 @@
+﻿Type;Action;View;Record_name;Value;Alias Target/MX preferance;New_Record_UPDATE;New Value_UPDATE
+TXT;Create;Common;pearsonplaces.com.au;v=spf1 redirect=_spf.pearson_com._d.easydmarc.pro;;;
+TXT;Create;Common;zenos.com;v=spf1 redirect=_spf.pearson_com._d.easydmarc.pro;;;
+TXT;Create;Common;pearsoned.com.sg;v=spf1 redirect=_spf.pearson_com._d.easydmarc.pro;;;
+TXT;Create;Common;adobepress.com;v=spf1 redirect=_spf.pearson_com._d.easydmarc.pro;;;
+TXT;Create;Common;pearsonelt.de;v=spf1 redirect=_spf.pearson_com._d.easydmarc.pro;;;
+TXT;Create;Common;itests.com;v=spf1 redirect=_spf.pearson_com._d.easydmarc.pro;;;
+TXT;Create;Common;longman.co.uk;v=spf1 redirect=_spf.pearson_com._d.easydmarc.pro;;;
+TXT;Create;Common;pearsoned.de;v=spf1 redirect=_spf.pearson_com._d.easydmarc.pro;;;
+TXT;Update;Common;_dmarc.adobepress.com;"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;_dmarc.adobepress.com;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1"
+TXT;Update;Common;_dmarc.itests.com;"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;_dmarc.itests.com;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1"
+TXT;Update;Common;_dmarc.longman.co.uk;"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;_dmarc.longman.co.uk;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1"
+TXT;Update;Common;_dmarc.pearsoned.com.sg;"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;_dmarc.pearsoned.com.sg;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1"
+TXT;Update;Common;_dmarc.pearsoned.de;"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;_dmarc.pearsoned.de;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1"
+TXT;Update;Common;_dmarc.pearsonelt.de;"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;_dmarc.pearsonelt.de;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1"
+TXT;Update;Common;_dmarc.pearsonplaces.com.au;"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;_dmarc.pearsonplaces.com.au;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1"
+TXT;Update;Common;_dmarc.zenos.com;"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1";;_dmarc.zenos.com;"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1"

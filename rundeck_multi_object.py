@@ -1,8 +1,8 @@
 import yaml
 import os
 import sys
-import re
 import csv
+
 
 source = os.path.expanduser(sys.argv[1]) #define source of file - need to be specify as atribute of python - python multi.py /Users/USZCZRA/Desktop/INC0264729.csv
 #source = 'dmarc_cname_create.csv'
@@ -10,7 +10,8 @@ output = {'records': []} #define empty dictionary that would be updated with dat
 index=0 #start counting of generated records based on a number of rows
 
 with open(source, newline='') as file:
-    separator = csv.reader(file, delimiter=';', quotechar='"') # read row as a list
+    csv.reader = csv.DictReader(file, delimiter=';', quotechar='"')
+    separator = csv.reader# read row as a list
     headers = next(separator) # avoid headers
     for line in separator: #read file line by line      
         (type, action, view, record, value, alias, new_record, new_value) = line #define number and names of column from file to script, only number of columns must be equal 
@@ -30,7 +31,7 @@ with open(source, newline='') as file:
             if action.lower() == "update":
                 data['new_record_name'] = new_record #add key "new record name" to data dictionary for CNAME record and update action
                 data.pop('canonical') #remove key "canonical" to data dictionary for CNAME record and update action
-                data['new_canonical'] = value #but add key "new canonical" to data dictionary for CNAME record and update action
+                data['new_canonical'] = new_value #but add key "new canonical" to data dictionary for CNAME record and update action
         elif type.lower() == "arecord":
             data['ip_address'] = value #add key "ip address" to data dictionary for A record
             if action.lower() == "update":
@@ -49,8 +50,8 @@ with open(source, newline='') as file:
             data['mail_exchanger'] = value #add key "mail exchanger" to data dictionary for MX record
             if action.lower() == "update":
                 data.pop('preference') #remove key "preference" to data dictionary for MX record and update action
-                data['new_mail_exchanger'] = new_record #add key "new mail exchanger" to data dictionary for MX record and update action
-                data['new_preference'] = new_value #add key "new preference" to data dictionary for MX record and update action
+                data['new_mail_exchanger'] = new_value #add key "new mail exchanger" to data dictionary for MX record and update action
+                data['new_preference'] = new_record #add key "new preference" to data dictionary for MX record and update action
         elif type.lower() == "ptr":
             data['ip_address'] = value #add key "ip address" to data dictionary for PTR record
             if action.lower() == "update":

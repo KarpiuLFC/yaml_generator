@@ -1,0 +1,5 @@
+k12report.com.          785     IN      TXT     "Wl4T3kEOAVd7RwI0phM" "2s1YNosUT2CSMkrNOSucYnY="
+k12report.com.          785     IN      TXT     "wlGDMzbW8uqnRX1WBxiZ51G4XPZuIicjjhRbTdNP4="
+mi-css.com.             786     IN      TXT     "google-site-verification=5KigoB0pdQH2DAbyGsxN-pmp1Xh8TP8K_iLTZcpy3Ek"
+pearsonshadow.com.      786     IN      TXT     "h2iwpQo8fWCBtI5cpXXYIBaq63xXYfgXmGkV6V2dF4klCb3WtLUszG46jSebD1Mq/+GF4faMFxUUgfO2r4wZ2Q=="
+pearsonshadow.com.      786     IN      TXT     "google-site-verification=O418FURbyAckPbaaucIjyL8yqctdJvuvxg6DgycsQPg"

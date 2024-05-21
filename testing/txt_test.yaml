@@ -1,0 +1,26 @@
+records:
+- action: create
+  record_name: aaa
+  record_type: txt
+  text: '111'
+  view: common
+- action: delete
+  record_name: bbb
+  record_type: txt
+  text: '222'
+  view: common
+- action: update
+  record_name: ccc
+  record_type: txt
+  text: '333'
+  view: common
+- action: create
+  record_name: ddd
+  record_type: txt
+  text: ''
+  view: common
+- action: update
+  record_name: eee
+  record_type: txt
+  text: '555'
+  view: common

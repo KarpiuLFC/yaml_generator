@@ -1,0 +1,7 @@
+_dmarc.hq.globalenglish.com. 870 IN	TXT	"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1"
+_dmarc.realcity.dk.com.	900	IN	TXT	"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1"
+_dmarc.realcity.dk.com.	900	IN	TXT	"v=DMARC1;p=reject;sp=reject;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1"
+_dmarc.pearsonclinical.com.au. 870 IN	TXT	"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1"
+_dmarc.pearsoned.co.uk.	900	IN	TXT	"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1"
+_dmarc.pearsoned.co.za.	870	IN	TXT	"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1"
+_dmarc.pearsonpsychcorp.es. 870	IN	TXT	"v=DMARC1;p=none;sp=none;pct=100;rua=mailto:bb264152e6@rua.easydmarc.us;ruf=mailto:bb264152e6@ruf.easydmarc.us;ri=86400;aspf=s;adkim=s;fo=1"
