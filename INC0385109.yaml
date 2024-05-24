@@ -1,0 +1,37 @@
+records:
+
+- action: delete
+  ip_address: 10.34.0.57
+  record_name: dn1updaredsm01.pearsontc.com
+  record_type: a
+  view: default
+- action: delete
+  ip_address: 10.34.0.57
+  record_name: dn1updaredsm01.pearsontc.com
+  record_type: ptr
+  view: default
+- action: delete
+  ip_address: 10.32.4.30
+  record_name: icdupdaredsm01.pearsontc.com
+  record_type: a
+  view: default
+- action: delete
+  ip_address: 10.32.4.30
+  record_name: icdupdaredsm01.pearsontc.com
+  record_type: ptr
+  view: default
+- action: delete
+  ip_address: 10.32.4.43
+  record_name: icdudekmxapp02.pearsontc.com
+  record_type: host
+  view: default
+- action: delete
+  ip_address: 10.32.4.44
+  record_name: icdupekmxapp02.pearsontc.com
+  record_type: host
+  view: default
+- action: delete
+  ip_address: 10.32.208.35
+  record_name: lo3updaredsm03.pearsontc.com
+  record_type: host
+  view: default
